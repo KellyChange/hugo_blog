@@ -1,0 +1,25 @@
+baseurl = "https://example.com"
+languageCode = "en"
+defaultContentLanguage = "zh"
+title = "all about dream"
+theme = "hugo-theme-dream"
+
+copyright = "Copyright (c) 2017, g1eny0ung; all rights reserved."
+
+# enableRobotsTXT = true
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+[params]
+  author = "Kelly"
+  motto = "No pain no gain"
+  description = "Do your best than you don’t need to worried about other’s gossip ."
+  avatar = "/img/images.jpg"
+  
+  email = "05360773@gmail.com"
+  github = "kylinfish"
+  linkedin = "win-wu-0537717b"
+  codepen = "somebody"
+  stackoverflow = "somebody"
